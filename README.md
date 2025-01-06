@@ -95,12 +95,14 @@ class CalculatorTest {
 ---
 
 3. **Kết quả**
+   
 ![image](https://github.com/user-attachments/assets/936bf562-80ef-44f7-90ec-8857916d5ebd)
 
 **Độ Coverage**
+
 ![image](https://github.com/user-attachments/assets/659a54c4-1a4e-487e-b73a-d3f058f8819e)
 
 
 ---
-### 5. **Tham khảo**
+4. **Tham khảo**
 [Chat GPT](https://chatgpt.com/share/677c05a1-56bc-8005-8a52-ff4ef81b0502)
