@@ -89,7 +89,8 @@ class CalculatorTest {
         Exception exception = assertThrows(IllegalArgumentException.class, () -> calculator.divide(6, 0));
         assertEquals("Cannot divide by zero.", exception.getMessage());
     }
-}```
+}
+```
 
 ---
 
